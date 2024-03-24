@@ -9,5 +9,6 @@ public class Bird extends Animal{
     }
 
     public static void main(String[] args) {
+        System.out.println("bruh monkey");
     }
 }
