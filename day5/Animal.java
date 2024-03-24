@@ -8,9 +8,5 @@ public abstract class Animal {
         
     }
 
-    public Animal(int h, int w, String n) {
-        
-    }
-
     public abstract int getHeight();
 }
